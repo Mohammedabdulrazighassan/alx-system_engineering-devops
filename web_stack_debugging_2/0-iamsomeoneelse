@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Runs software as another user
+# Runs whoami command as the user provided in argument
 
 sudo -u "$" whoami
