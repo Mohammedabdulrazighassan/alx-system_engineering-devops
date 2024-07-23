@@ -2,3 +2,5 @@
 #run software as another user
 
 sudo -u "$" whoami
+
+00000
