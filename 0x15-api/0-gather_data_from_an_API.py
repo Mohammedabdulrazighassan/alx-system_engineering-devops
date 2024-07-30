@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-'''
-gather employee data from API
-'''
+
+"""Returns to-do list information for a given employee ID."""
 
 import re
 import requests
