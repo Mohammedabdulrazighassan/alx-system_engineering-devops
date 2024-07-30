@@ -6,6 +6,9 @@ gather employee data from API
 import requests
 import sys
 
+REST_API = "https://jsonplaceholder.typicode.com"
+
+
 if __name__ == "__main__":
     url = "https://jsonplaceholder.typicode.com/"
     user = requests.get(url + "users/{}".format(sys.argv[1])).json()
