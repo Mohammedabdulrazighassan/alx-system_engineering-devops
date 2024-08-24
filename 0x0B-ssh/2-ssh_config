@@ -4,4 +4,4 @@ Host web-01
 	Hostname 54.237.9.194
 	User ubuntu
 	PasswordAuthentication yes
-	IdentityFile ~/alx-system_engineering-devops/0x0B-ssh/school2 
+	IdentityFile ~/alx-system_engineering-devops/0x0B-ssh/school 
